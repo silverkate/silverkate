@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @silverkate
 - 👀 I’m interested in programming, learning new languages and making friend
-- 💙 flutter
-- 🐣 js
+- 💙 flutter & js
 
 
 <!---
